@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BobStewartSonYT/PetSimulatorXScripts/main/PSXNEWUPDATESCRIPTS"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BobStewartSonYT/PetChangerV5/main/PetChangerV5"))()
